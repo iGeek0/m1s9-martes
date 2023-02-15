@@ -1,0 +1,25 @@
+{
+  "name": "prueba_node",
+  "version": "1.0.0",
+  "description": "mi primer proyecto en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iGeek0/m1s9-martes.git"
+  },
+  "keywords": [
+    "node",
+    "test",
+    "prueba",
+    "ucamp"
+  ],
+  "author": "Jesus Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iGeek0/m1s9-martes/issues"
+  },
+  "homepage": "https://github.com/iGeek0/m1s9-martes#readme"
+}
